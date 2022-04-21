@@ -12,7 +12,7 @@ Minimal webpack 5 boilerplate using Babel, Sass with a hot dev server and a prod
 ### Installation
 
 ```bash
-git clone https://github.com/Seogeurim/webpack-es6-boilerplate.git
+git clone https://github.com/7793690/webpack-es6-boilerplate.git
 cd webpack-es6-boilerplate
 yarn install
 ```
